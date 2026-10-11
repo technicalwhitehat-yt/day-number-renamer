@@ -6,9 +6,15 @@ A lightweight Windows-friendly GUI utility that moves a `Day N` marker to the be
 
 ## Demo video
 
-A demo video is included in the repository root as [`video.mp4`](./video.mp4).
+<p align="center">
+  <a href="./video.mp4">
+    <img src="./thumbnail.png" alt="Day Number Renamer Demo Thumbnail" width="100%">
+  </a>
+</p>
 
-[▶ Watch or download the demo video](./video.mp4)
+<p align="center">
+  ▶️ <strong>Click the thumbnail to watch the demo!</strong>
+</p>
 
 ## Example
 
