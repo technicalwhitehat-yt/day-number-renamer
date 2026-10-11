@@ -6,14 +6,18 @@ A lightweight Windows-friendly GUI utility that moves a `Day N` marker to the be
 
 ## Demo video
 
+## 🎬 Demo Video
+
 <p align="center">
-  <a href="./video.mp4">
-    <img src="./tumbnail.png" alt="Day Number Renamer Demo Thumbnail" width="100%">
+  <a href="[https://github.com/YOUR_USERNAME/day-number-renamer/blob/main/video.mp4](https://github.com/technicalwhitehat-yt/day-number-renamer/blob/main/video.mp4)">
+    <img src="./thumbnail.png"
+         alt="Day Number Renamer Demo"
+         width="100%">
   </a>
 </p>
 
 <p align="center">
-  ▶️ <strong>Click the thumbnail to watch the demo!</strong>
+  <b>▶️ Click the thumbnail to watch the demo!</b>
 </p>
 
 ## Example
