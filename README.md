@@ -7,7 +7,7 @@ A lightweight Windows-friendly GUI utility that moves a `Day N` marker to the be
 ## 🎬 Demo Video
 
 <p align="center">
-  <a href="https://youtu.be/Y3t5CX4yyoI">
+  <a href="[https://youtu.be/LwWUFejiWUc]">
     <img src="./thumbnail.png"
          alt="Day Number Renamer Demo"
          width="100%">
