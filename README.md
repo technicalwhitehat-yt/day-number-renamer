@@ -8,7 +8,7 @@ A lightweight Windows-friendly GUI utility that moves a `Day N` marker to the be
 
 <p align="center">
   <a href="./video.mp4">
-    <img src="./thumbnail.png" alt="Day Number Renamer Demo Thumbnail" width="100%">
+    <img src="./tumbnail.png" alt="Day Number Renamer Demo Thumbnail" width="100%">
   </a>
 </p>
 
