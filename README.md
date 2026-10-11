@@ -4,12 +4,10 @@ A lightweight Windows-friendly GUI utility that moves a `Day N` marker to the be
 
 **No AI, API key, third-party packages, or internet connection required.**
 
-## Demo video
-
 ## 🎬 Demo Video
 
 <p align="center">
-  <a href="[https://github.com/technicalwhitehat-yt/day-number-renamer/blob/main/video.mp4]>
+  <a href="https://github.com/technicalwhitehat-yt/day-number-renamer/blob/main/video.mp4">
     <img src="./thumbnail.png"
          alt="Day Number Renamer Demo"
          width="100%">
@@ -17,9 +15,8 @@ A lightweight Windows-friendly GUI utility that moves a `Day N` marker to the be
 </p>
 
 <p align="center">
-  <b>▶️ Click the thumbnail to watch the demo!</b>
+  <strong>▶️ Click the thumbnail to watch the demo!</strong>
 </p>
-
 ## Example
 
 Before:
