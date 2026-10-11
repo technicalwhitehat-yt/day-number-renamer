@@ -4,6 +4,12 @@ A lightweight Windows-friendly GUI utility that moves a `Day N` marker to the be
 
 **No AI, API key, third-party packages, or internet connection required.**
 
+## Demo video
+
+A demo video is included in the repository root as [`video.mp4`](./video.mp4).
+
+[▶ Watch or download the demo video](./video.mp4)
+
 ## Example
 
 Before:
